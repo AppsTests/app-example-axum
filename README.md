@@ -1,3 +1,7 @@
+![Axum Logo](https://st.timeweb.com/cloud-static/apps-logo/axum.svg)
+
+# Axum
+
 Пример приложения Axum, которое можно развернуть в Timeweb Cloud Apps без настройки.
 
 🎉 [Демо](https://timeweb-cloud-apps-app-example-axum-6a71.twc1.net/)
